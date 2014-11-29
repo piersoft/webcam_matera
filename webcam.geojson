@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "http://www.sassiland.com/webcam_palazzo_annunziata/",
+        "name": "Piazza Vittorio Veneto - Ipogei",
+	"file": "read_image_annunziata.asp",
+	"vendor": "http://www.sassiland.com"
+
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.60603,
+          40.66692
+        ]
+      }
+   },
+     {
+      "type": "Feature",
+      "properties": {
+        "url": "http://www.sassiland.com/webcam2luglio/",
+        "name": "Piazza Vittorio Veneto - Fontana",
+	"file": "readimage2luglio.asp",
+	"vendor": "http://www.sassiland.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6064,
+          40.66629
+        ]
+      }
+     },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "http://www.epitech-srl.it/",
+        "name": "Rotatoria Via La Martella",
+	"file": "cam-epitech.jpg",
+	"vendor": "http://www.epitech-srl.it/"
+
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.57977,
+          40.67033
+        ]
+      }
+    }
+]
+}
